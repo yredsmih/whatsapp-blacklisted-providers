@@ -8,20 +8,23 @@ They can be found here on [facebook page](https://www.facebook.com/business/part
 ## Unnoficial illegal Whatsapp Providers. 
 Any provider in the list is compromised itself since it is here and Meta with WhatsApp likely already know about it.
 
-* Ultramsg  https://ultramsg.com
+* Ultramsg  https://ultramsg.com (still working)
   
-* CallMeBot https://www.callmebot.com
+* CallMeBot https://www.callmebot.com (still working)
   
-* Wassenger https://www.wassenger.com
+* Wassenger https://www.wassenger.com (still working)
   
-* Apisender https://apisender.com
+* Apisender https://apisender.com (still working)
   
-* Maytapi https://maytapi.com
+* Maytapi https://maytapi.com (still working)
 
-* API Chat https://apichat.io/en/
+* API Chat https://apichat.io/en/ (still working)
 
-* Umnico https://umnico.com/integrations/whatsapp
+* Umnico https://umnico.com/integrations/whatsapp (still working)
 
-* Green Api https://green-api.com
+* Green Api https://green-api.com (still working)
 
-* Wbiztool https://wbiztool.com/
+* Wbiztool https://wbiztool.com/ (still working)
+
+* Chat API https://chat-api.com/en (was closed due
+ Cease and Desist from Whatsapp)
