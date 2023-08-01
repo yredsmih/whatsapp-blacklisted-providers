@@ -6,7 +6,7 @@ I know when you're trying to search reliable WhatsApp API you may easily get fru
 They can be found here on [facebook page](https://www.facebook.com/business/partner-directory/search?solution_type=messaging&platforms=whatsapp)
 
 ## Unnoficial illegal Whatsapp Providers. 
-Any provider in the list is compromised itself since it is here and Meta with WhatsApp likely already know about it.
+These are third party providers that are not owned by WhatsApp or anything and they may be object of legal threats. Any provider in the list is compromised itself since it is here and Meta with WhatsApp likely will know about them.
 
 * Chat API https://chat-api.com/en (was closed due
  Cease and Desist from Whatsapp)
