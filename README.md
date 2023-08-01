@@ -8,6 +8,9 @@ They can be found here on [facebook page](https://www.facebook.com/business/part
 ## Unnoficial illegal Whatsapp Providers. 
 Any provider in the list is compromised itself since it is here and Meta with WhatsApp likely already know about it.
 
+* Chat API https://chat-api.com/en (was closed due
+ Cease and Desist from Whatsapp)
+
 * Ultramsg  https://ultramsg.com (still working)
   
 * CallMeBot https://www.callmebot.com (still working)
@@ -26,5 +29,3 @@ Any provider in the list is compromised itself since it is here and Meta with Wh
 
 * Wbiztool https://wbiztool.com/ (still working)
 
-* Chat API https://chat-api.com/en (was closed due
- Cease and Desist from Whatsapp)
