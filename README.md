@@ -9,7 +9,7 @@ They can be found here on [facebook page](https://www.facebook.com/business/part
 These are third party cloud providers that are not owned by WhatsApp or anything and they may be object of legal threats. Any provider in the list is compromised itself since it is here and Meta with WhatsApp likely will know about them.
 
 * Chat API https://chat-api.com/en (was closed due
- Cease and Desist from Whatsapp published [here](https://www.docdroid.net/gWpFsXz/whatsapps-cease-and-desist-and-demand-against-chat-api-pdf) )
+ Cease and Desist from Whatsapp. Text published [here](https://www.docdroid.net/gWpFsXz/whatsapps-cease-and-desist-and-demand-against-chat-api-pdf) )
 
 * Ultramsg  https://ultramsg.com (still working)
   
