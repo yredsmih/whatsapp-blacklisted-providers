@@ -1,4 +1,4 @@
-# WhatsApp API Blacklisted Providers
+# Actual WhatsApp API Blacklisted Providers
 
 I know when you're trying to search reliable WhatsApp API you may easily get frustrated because of lot a mess illegal stuff going out in Intenet today. Especially when you don't know that most of unnoficial  Whatsapp API are deliberately hiding theirs illegal status.  So that's why i've decided to make a list of WhatsApp API providers that violate [Whatsapp Therms of Service](https://www.whatsapp.com/legal/terms-of-service) . You can use this info for own purposes realizing all possible risks. 
 
