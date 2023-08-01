@@ -5,8 +5,8 @@ I know when you're trying to search reliable WhatsApp API you may easily get fru
 ## Official Business Whatsapp API providers
 They can be found here on [facebook page](https://www.facebook.com/business/partner-directory/search?solution_type=messaging&platforms=whatsapp)
 
-## Unofficial illegal Whatsapp Providers. 
-Any provider in the list is compromised itself. Likely  Meta and Whatsapp already know about it.
+## Unnoficial illegal Whatsapp Providers. 
+Any provider in the list is compromised itself since it is here and Meta with WhatsApp likely already know about it.
 
 * Ultramsg  https://ultramsg.com
   
@@ -17,3 +17,5 @@ Any provider in the list is compromised itself. Likely  Meta and Whatsapp alread
 * Apisender https://apisender.com
   
 * Maytapi https://maytapi.com
+
+* API Chat https://apichat.io/en/
