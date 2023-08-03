@@ -1,6 +1,6 @@
 # Actual WhatsApp API Blacklisted cloud Providers
 
-I know when you're trying to search reliable WhatsApp API you may easily get frustrated because of lot a mess illegal stuff going out in Intenet today. Especially when you don't know that most of unnoficial  WhatsApp API are hiding theirs illegal status. So that's why i've decided to make a list of WhatsApp API providers that deliberately violate [WhatsApp Therms of Service](https://www.whatsapp.com/legal/terms-of-service) to earn money
+I know when you're trying to search reliable WhatsApp API you may easily get frustrated because of lot a mess illegal stuff going out in Intenet today. Especially when you don't know that most of unnoficial  WhatsApp API are hiding theirs illegal status. So that's why i've decided to make a list of WhatsApp API providers that deliberately violate [WhatsApp Therms of Service](https://www.whatsapp.com/legal/terms-of-service) to earn money. WhatsApp has a statement about unnoficial apps that is placed here [About unofficial apps](https://faq.whatsapp.com/1217634902127718)
 
 ## Official Business WhatsApp API providers
 These are legally authorized by Meta with WhatsApp. They are safe and secure. They can be found here on [facebook page](https://www.facebook.com/business/partner-directory/search?solution_type=messaging&platforms=whatsapp)
