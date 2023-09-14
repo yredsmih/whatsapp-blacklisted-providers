@@ -6,7 +6,7 @@ I know when you're trying to search reliable WhatsApp API you may easily get fru
 These are legally authorized by Meta with WhatsApp. They are safe and secure. They can be found here on [facebook page](https://www.facebook.com/business/partner-directory/search?solution_type=messaging&platforms=whatsapp)
 
 ## Unnoficial illegal WhatsApp API Providers
-These are third party cloud providers that are not owned by WhatsApp or anything and they may be object of legal threats. Any provider in the list is compromised itself since it is here and Meta with WhatsApp likely will know about them finally.  You should use this info realizing all possible risks. 
+These are third party cloud providers that are not owned by WhatsApp or anything and they may be object of legal threats. Any provider in the list is compromised itself since it is here and Meta with WhatsApp likely know about them already.  You should use this info realizing all possible risks. 
 
 * Chat API https://chat-api.com/en (was closed due
  Cease and Desist from WhatsApp. Text published [here](https://www.docdroid.net/gWpFsXz/whatsapps-cease-and-desist-and-demand-against-chat-api-pdf) )
