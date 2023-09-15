@@ -28,4 +28,5 @@ These are third party cloud providers that are not owned by WhatsApp or anything
 * Green Api https://green-api.com (still working)
 
 * Wbiztool https://wbiztool.com/ (still working)
+* Orday https://www.orday.co.il/ (still working)
 
