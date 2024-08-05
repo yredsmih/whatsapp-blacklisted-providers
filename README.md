@@ -15,7 +15,7 @@ These are third party cloud providers that are not owned by WhatsApp or anything
   
 * CallMeBot https://www.callmebot.com (still working)
   
-* Wassenger https://www.wassenger.com (BANNED)
+* Wassenger https://www.wassenger.com (still working)
   
 * Apisender https://apisender.com (still working)
   
