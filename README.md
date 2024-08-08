@@ -8,28 +8,19 @@ These are legally authorized by Meta with WhatsApp. They are safe and secure. Th
 ## Unnoficial illegal WhatsApp API Providers
 These are third party cloud providers that are not owned by WhatsApp or anything and they may be object of legal threats. Any provider in the list is compromised itself since it is here and Meta with WhatsApp likely know about them already.  You should use this info realizing all possible risks. 
 
-* Chat API https://chat-api.com/en (was closed due
+* ![Status](https://img.shields.io/badge/status-banned-red) Chat API https://chat-api.com/en  (was closed due
  Cease and Desist from WhatsApp. Text published [here](https://www.docdroid.net/gWpFsXz/whatsapps-cease-and-desist-and-demand-against-chat-api-pdf) )
-
-* Ultramsg  https://ultramsg.com (still working)
-  
-* CallMeBot https://www.callmebot.com (still working)
-  
-* Wassenger https://www.wassenger.com (still working)
-  
-* Apisender https://apisender.com (still working)
-  
-* Maytapi https://maytapi.com (still working)
-
-* API Chat https://apichat.io/en/ (still working)
-
-* Umnico https://umnico.com/integrations/whatsapp (still working)
-
-* Green Api https://green-api.com (still working)
-
-* Wbiztool https://wbiztool.com/ (still working)
-* Orday https://www.orday.co.il/ (still working)
-* Whatsgate [https://whatsgate.ru/](https://whatsgate.ru/) (still working)
-* whapi https://whapi.cloud (still working)
-* wati https://www.wati.io/ (still working)
+* ![Status](https://img.shields.io/badge/status-live-brightgreen) Ultramsg  https://ultramsg.com 
+* ![Status](https://img.shields.io/badge/status-live-brightgreen) CallMeBot https://www.callmebot.com ![Status](https://img.shields.io/badge/status-live-brightgreen)
+* ![Status](https://img.shields.io/badge/status-live-brightgreen) Wassenger https://www.wassenger.com
+* ![Status](https://img.shields.io/badge/status-live-brightgreen) Apisender https://apisender.com
+* ![Status](https://img.shields.io/badge/status-live-brightgreen) Maytapi https://maytapi.com
+* ![Status](https://img.shields.io/badge/status-live-brightgreen) API Chat https://apichat.io/en/
+* ![Status](https://img.shields.io/badge/status-live-brightgreen) Umnico https://umnico.com/integrations/whatsapp
+* ![Status](https://img.shields.io/badge/status-live-brightgreen) Green Api https://green-api.com
+* ![Status](https://img.shields.io/badge/status-live-brightgreen) Wbiztool https://wbiztool.com/
+* ![Status](https://img.shields.io/badge/status-live-brightgreen) Orday https://www.orday.co.il/
+* ![Status](https://img.shields.io/badge/status-live-brightgreen) Whatsgate [https://whatsgate.ru/](https://whatsgate.ru/)
+* ![Status](https://img.shields.io/badge/status-live-brightgreen) whapi https://whapi.cloud
+* ![Status](https://img.shields.io/badge/status-live-brightgreen) wati https://www.wati.io/
 
