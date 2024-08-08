@@ -11,7 +11,7 @@ These are third party cloud providers that are not owned by WhatsApp or anything
 * ![Status](https://img.shields.io/badge/status-banned-red) Chat API https://chat-api.com/en  (was closed due
  Cease and Desist from WhatsApp. Text published [here](https://www.docdroid.net/gWpFsXz/whatsapps-cease-and-desist-and-demand-against-chat-api-pdf) )
 * ![Status](https://img.shields.io/badge/status-live-brightgreen) Ultramsg  https://ultramsg.com 
-* ![Status](https://img.shields.io/badge/status-live-brightgreen) CallMeBot https://www.callmebot.com ![Status](https://img.shields.io/badge/status-live-brightgreen)
+* ![Status](https://img.shields.io/badge/status-live-brightgreen) CallMeBot https://www.callmebot.com
 * ![Status](https://img.shields.io/badge/status-live-brightgreen) Wassenger https://www.wassenger.com
 * ![Status](https://img.shields.io/badge/status-live-brightgreen) Apisender https://apisender.com
 * ![Status](https://img.shields.io/badge/status-live-brightgreen) Maytapi https://maytapi.com
