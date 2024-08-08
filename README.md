@@ -31,4 +31,5 @@ These are third party cloud providers that are not owned by WhatsApp or anything
 * Orday https://www.orday.co.il/ (still working)
 * Whatsgate [https://whatsgate.ru/](https://whatsgate.ru/) (still working)
 * whapi https://whapi.cloud (still working)
+* wati https://www.wati.io/ (still working)
 
